@@ -13,7 +13,7 @@ matplotlib
 scipy
 statsmodels
 seaborn
-git clone https://github.com/your-repo-suman suhag.git
+git clone https://github.com/sumansuhag/Statistics-notebook
 cd your-repo-name
 python -m venv env
 env\Scripts\activate      # For Windows
